@@ -1,0 +1,41 @@
+/* Custom styling for the pricing table */
+.body{
+    background-color:#89e7fe;
+
+}
+.container-fluid{
+    background-color:#89e7fe;
+}
+.card {
+    border-radius: 15px;
+
+  }
+  .card-price {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #89cd8f;
+    color: black;
+
+  }
+  .card-body {
+    text-align: center;
+  }
+  .card-title {
+    font-size: 1.25rem;
+  }
+
+  .card ul {
+    padding-left: 0;
+  }
+  .card ul li {
+    padding: 5px 0;
+
+  }
+  .btn {
+    padding: 10px 20px;
+    font-size: 1rem;
+    border-radius: 5px;
+    color:black;
+    
+  }
+  
